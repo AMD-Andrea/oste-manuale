@@ -9,17 +9,17 @@ Abbiamo pensato a contenuti chiari, diretti e accessibili a tutti, eliminando te
 
 ## Cosa trovi in questa guida
 
-| Sezione                                                                       | Argomento                             |
-| ----------------------------------------------------------------------------- | ------------------------------------- |
-| <img src=".gitbook/assets/image (3).png" alt="" data-size="line"> Primi passi | Come accedere e orientarsi nel sistem |
-| <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> Tavoli      | Come gestire la sala e i tavoli       |
-| <img src=".gitbook/assets/image (5).png" alt="" data-size="line">  Ordini     | Come prendere e inviare le comande    |
-| <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> Cassa       | Come chiudere i conti e incassare     |
-| <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> Magazzino   | Come controllare scorte e food cost   |
-| <img src=".gitbook/assets/image (8).png" alt="" data-size="line"> Statistiche | Come leggere i dati del locale        |
-| <img src=".gitbook/assets/image (9).png" alt="" data-size="line"> Moduli      | I servizi aggiuntivi disponibili      |
-| <img src=".gitbook/assets/image (10).png" alt="" data-size="line"> FAQ        | Le domande più frequenti              |
-| <img src=".gitbook/assets/image (11).png" alt="" data-size="line"> Glossario  | I termini spiegati in modo semplice   |
+| Sezione                                                                       | Argomento                              |
+| ----------------------------------------------------------------------------- | -------------------------------------- |
+| <img src=".gitbook/assets/image (3).png" alt="" data-size="line"> Primi passi | Come accedere e orientarsi nel sistema |
+| <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> Tavoli      | Come gestire la sala e i tavoli        |
+| <img src=".gitbook/assets/image (5).png" alt="" data-size="line">  Ordini     | Come prendere e inviare le comande     |
+| <img src=".gitbook/assets/image (6).png" alt="" data-size="line"> Cassa       | Come chiudere i conti e incassare      |
+| <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> Magazzino   | Come controllare scorte e food cost    |
+| <img src=".gitbook/assets/image (8).png" alt="" data-size="line"> Statistiche | Come leggere i dati del locale         |
+| <img src=".gitbook/assets/image (9).png" alt="" data-size="line"> Moduli      | I servizi aggiuntivi disponibili       |
+| <img src=".gitbook/assets/image (10).png" alt="" data-size="line"> FAQ        | Le domande più frequenti               |
+| <img src=".gitbook/assets/image (11).png" alt="" data-size="line"> Glossario  | I termini spiegati in modo semplice    |
 
 ***
 
