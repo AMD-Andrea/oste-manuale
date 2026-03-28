@@ -11,15 +11,16 @@ Abbiamo pensato a contenuti chiari, diretti e accessibili a tutti, eliminando te
 
 | Sezione        | Argomento                              |
 | -------------- | -------------------------------------- |
-| 🚀 Primi passi | Come accedere e orientarsi nel sistema |
-| 🪑 Tavoli      | Come gestire la sala e i tavoli        |
-| 📋 Ordini      | Come prendere e inviare le comande     |
-| 💳 Cassa       | Come chiudere i conti e incassare      |
-| 📦 Magazzino   | Come controllare scorte e food cost    |
-| 📊 Statistiche | Come leggere i dati del locale         |
-| 🔌 Moduli      | I servizi aggiuntivi disponibili       |
+| 🔸 Primi passi | Come accedere e orientarsi nel sistema |
+| 🔸 Tavoli      | Come gestire la sala e i tavoli        |
+| 🔸 Ordini      | Come prendere e inviare le comande     |
+| 🔸 Cassa       | Come chiudere i conti e incassare      |
+| 🔸 Magazzino   | Come controllare scorte e food cost    |
+| 🔸 Statistiche | Come leggere i dati del locale         |
+| 🔸 Moduli      | I servizi aggiuntivi disponibili       |
 | ❓ FAQ          | Le domande più frequenti               |
 | 📖 Glossario   | I termini spiegati in modo semplice    |
+|                |                                        |
 
 ***
 
